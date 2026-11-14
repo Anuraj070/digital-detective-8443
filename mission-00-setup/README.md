@@ -10,4 +10,5 @@
 ## Difficulties faced:No major difficulties.
 ## How I resolved them:Not applicable.
 ## Evidence / files: List README.md, mission-00-setup/README.md, the mission folders, and evidence/.
-## Commit details: 
+## Commit details:The setup commit was pushed to GitHub on the main branch.
+## Commit message: Set up Digital Detective mission structure
