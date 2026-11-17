@@ -29,11 +29,11 @@
 | Traffic signal | Controls traffic flow at a junction. | Sensor or timer | Red, yellow, and green lights |
 | Smart TV | Plays videos, TV channels, and streaming content. | Remote-control button | Video and sound |
 
-## 1. Task / objective :- IPOS, hardware/software, and everyday computer systems.
+## 1. Task  :- IPOS, hardware/software, and everyday computer systems.
 
 ## 2. Work completed :- Made three tables.
 
-## 3. Commands / tools used :- VS Code; no Terminal commands were needed.
+## 3. Commands  used :- VS Code; no Terminal commands were needed.
 
 ## 4. My understanding :- Input starts an action, processing handles it, output shows the result, and storage saves it.
 
@@ -41,7 +41,7 @@
 
 ## 6. How I resolved them :- Not applicable
 
-## 7. Evidence / files :- mission-01-computer-basics/README.md
+## 7. Evidence  :- mission-01-computer-basics/README.md
 
 ## 8. Commit details :- Commit message: Complete computer basics and IPOS mission
 

@@ -50,7 +50,7 @@ I created and tested `number_converter.py`, which reads a decimal integer from t
 
 ---
 
-## 1. Task / objective
+## 1. Task 
 
 Convert values between decimal, binary, and hexadecimal, verify with Python, create an interactive conversion script, and explain text encoding.
 
@@ -58,7 +58,7 @@ Convert values between decimal, binary, and hexadecimal, verify with Python, cre
 
 Calculated 7 manual number conversions with working, checked them using Python built-in conversion functions, wrote and tested `number_converter.py` with 3 test numbers, and documented character encoding principles.
 
-## 3. Commands / tools used
+## 3. Commands 
 
 - `python3`: Used Python interactive shell to verify conversions.
 - `bin()`: Built-in function to convert integer to binary string.
@@ -80,7 +80,7 @@ Remembering that Python's `bin()` and `hex()` output prefixes (`0b` and `0x`), w
 
 Observed the prefixes in Python interactive testing and verified that the digits following the prefix match manual calculations.
 
-## 7. Evidence / files
+## 7. Evidence 
 
 - `mission-05-numbers-data/number_converter.py`
 - `mission-05-numbers-data/README.md`

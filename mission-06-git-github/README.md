@@ -43,7 +43,7 @@
 
 ---
 
-## 1. Task / objective
+## 1. Task 
 
 Understand version control, inspect git status, create and push a branch, open and merge a Pull Request on GitHub, and document the collaboration workflow.
 
@@ -51,7 +51,7 @@ Understand version control, inspect git status, create and push a branch, open a
 
 Created the `update-about` branch, added the "My Learning" section to root `README.md`, pushed the branch to GitHub, opened and merged Pull Request #1 into `main`, pulled changes back to local `main`, and compiled a Git command glossary.
 
-## 3. Commands / tools used
+## 3. Commands 
 
 - `git status`: Checked modified and untracked files.
 - `git checkout -b update-about`: Created and switched to the new branch.
@@ -73,7 +73,7 @@ Initially saved the changes in the wrong README file, which resulted in Git repo
 
 Appended the "My Learning" section directly to the root `README.md`, staged it, and successfully pushed the commit to GitHub.
 
-## 7. Evidence / files
+## 7. Evidence 
 
 - `mission-06-git-github/README.md`
 - `README.md`

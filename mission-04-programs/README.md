@@ -26,7 +26,7 @@ A compiler takes the entire source code and converts it into machine code before
 
 ---
 
-## 1. Task / objective
+## 1. Task 
 
 Run a simple Python program and compare how compilers and interpreters translate and execute code.
 
@@ -34,7 +34,7 @@ Run a simple Python program and compare how compilers and interpreters translate
 
 Created and ran `hello.py` using Python 3, observed the output in Terminal, and completed a comparison between compilers and interpreters.
 
-## 3. Commands / tools used
+## 3. Commands 
 
 - `touch hello.py`: Created the Python script file.
 - `python3 hello.py`: Executed the Python program using the Python 3 interpreter.
@@ -52,7 +52,7 @@ Accidentally typed `print("Hello from Python")` directly into the zsh Terminal p
 
 Saved the Python print statement into `hello.py` and executed it properly using the command `python3 hello.py`.
 
-## 7. Evidence / files
+## 7. Evidence 
 
 - `mission-04-programs/hello.py`
 - `mission-04-programs/README.md`

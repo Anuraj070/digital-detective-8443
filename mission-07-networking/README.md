@@ -41,7 +41,7 @@ nslookup example.com
 
 ---
 
-## 1. Task / objective
+## 1. Task 
 
 Explain basic computer network types and concepts, test network connectivity and DNS lookup tools, and explain the steps involved in opening a website.
 
@@ -49,7 +49,7 @@ Explain basic computer network types and concepts, test network connectivity and
 
 Defined network concepts (LAN, MAN, WAN, DNS, Router, Protocol, Packet switching, Client-server), performed `ping` and `nslookup` on a public domain, and wrote a 7-step guide explaining how websites load.
 
-## 3. Commands / tools used
+## 3. Commands 
 
 - `ping -c 3 example.com`: Tested network reachability and latency.
 - `nslookup example.com`: Performed a DNS query to find the domain's IP address.
@@ -66,7 +66,7 @@ No major difficulties. Made sure not to expose private local IP addresses or pri
 
 Used public test website `example.com` for connectivity and DNS queries as recommended by the assignment instructions.
 
-## 7. Evidence / files
+## 7. Evidence 
 
 - `mission-07-networking/README.md`
 

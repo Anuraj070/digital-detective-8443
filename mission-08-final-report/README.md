@@ -19,7 +19,7 @@
 
 ---
 
-## 1. Task / objective
+## 1. Task 
 
 Conduct a final review of the complete repository, verify all mission requirements against the assignment checklist, update the root README for visitors, and prepare the repository for final submission.
 
@@ -30,7 +30,7 @@ Conduct a final review of the complete repository, verify all mission requiremen
 - Verified that all missions have individual, descriptive Git commits pushed to the public GitHub repository.
 - Completed the final checklist audit.
 
-## 3. Commands / tools used
+## 3. Commands 
 
 - `git status`: Verified clean working tree.
 - `git log --oneline`: Audited commit history across all missions.
@@ -48,7 +48,7 @@ No major difficulties. Carefully reviewed all mission files to confirm that no p
 
 Double-checked file diffs and confirmed that personal identifiers were marked as `[redacted]` before making final commits.
 
-## 7. Evidence / files
+## 7. Evidence 
 
 - `README.md` (root directory)
 - `mission-08-final-report/README.md`

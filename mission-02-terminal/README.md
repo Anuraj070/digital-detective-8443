@@ -31,7 +31,7 @@ I checked Homebrew using `brew --version` and viewed its installed packages usin
 
 A package manager helps install, update, and remove software from the Terminal. Homebrew keeps track of installed packages, which makes software management more organised.
 
-## 1. Task / objective
+## 1. Task 
 
 Practise Terminal commands, manage files safely, understand flags and pipes, and learn about package managers.
 
@@ -39,7 +39,7 @@ Practise Terminal commands, manage files safely, understand flags and pipes, and
 
 I used basic Terminal commands, created a safe practice folder, created and managed text files, compared directory listings, used a pipe, and checked Homebrew.
 
-## 3. Commands / tools used
+## 3. Commands 
 
 `pwd`, `ls`, `ls -l`, `ls -lah`, `cd`, `mkdir`, `touch`, `echo`, `cat`, `cp`, `mv`, `head`, `brew --version`, and `brew list`.
 
@@ -55,7 +55,7 @@ No major difficulties.
 
 Not applicable.
 
-## 7. Evidence / files
+## 7. Evidence 
 
 - `mission-02-terminal/README.md`
 - `terminal-practice/original.txt`
